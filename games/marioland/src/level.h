@@ -25,10 +25,12 @@ INCBIN_EXTERN(birabuto_tiles_bin)
 // maps
 #include "../res/level_1_1.h"
 INCBIN_EXTERN(map_1_1)
-#include "../res/level_1_2.h"
-INCBIN_EXTERN(map_1_2)
-#include "../res/level_1_3.h"
-INCBIN_EXTERN(map_1_3)
+
+//#include "../res/level_1_2.h"
+//INCBIN_EXTERN(map_1_2)
+
+//#include "../res/level_1_3.h"
+//INCBIN_EXTERN(map_1_3)
 
 #define NB_LEVELS 3
 #define LEVEL_HEIGHT 16

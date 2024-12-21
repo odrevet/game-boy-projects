@@ -56,19 +56,19 @@ void set_level_1_1()
 
 void set_level_1_2()
 {
-  current_map = map_1_2;
-  current_map_tile_origin = birabuto_TILE_ORIGIN;
-  current_map_tiles_bin = birabuto_tiles_bin;
-  current_map_size = INCBIN_SIZE(birabuto_tiles_bin) >> 4;
-  current_map_width = level_1_2_WIDTH;
+  //current_map = map_1_2;
+  //current_map_tile_origin = birabuto_TILE_ORIGIN;
+  //current_map_tiles_bin = birabuto_tiles_bin;
+  //current_map_size = INCBIN_SIZE(birabuto_tiles_bin) >> 4;
+  //current_map_width = level_1_2_WIDTH;
 }
 
 void set_level_1_3()
 {
-  current_map = map_1_3;
-  current_map_tile_origin = birabuto_TILE_ORIGIN;
-  current_map_tiles_bin = birabuto_tiles_bin;
-  current_map_size = INCBIN_SIZE(birabuto_tiles_bin) >> 4;
-  current_map_width = level_1_3_WIDTH;
+  //current_map = map_1_3;
+  //current_map_tile_origin = birabuto_TILE_ORIGIN;
+  //current_map_tiles_bin = birabuto_tiles_bin;
+  //current_map_size = INCBIN_SIZE(birabuto_tiles_bin) >> 4;
+  //current_map_width = level_1_3_WIDTH;
 }
 
